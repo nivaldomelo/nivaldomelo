@@ -5,9 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nivaldomelocloud@gmail.com)](mailto:nivaldomelocloud@gmail.com)
 
 
-## Eu sou um Engenheiro de Dados | Databricks | Apache Spark.
+## Eu sou um Engenheiro de Dados | Hadoop | Apache Spark.
 
-### Meu foco é resolver problemas com engenharia de dados, Apache Spark e Databricks.
+### Meu foco é resolver problemas com engenharia de dados, Hadoop, Apache Spark e Databricks.
 
 
 ![Nivaldo github stats](https://github-readme-stats.vercel.app/api?username=nivaldomelo)
