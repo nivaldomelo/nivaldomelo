@@ -1,7 +1,6 @@
 # Olá! Me chamo Nivaldo Melo 😀
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/nivaldoomelo//)](https://www.linkedin.com/in/nivaldoomelo/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nivasmelo)](https://twitter.com/nivasmelo)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nivaldomelocloud@gmail.com)](mailto:nivaldomelocloud@gmail.com)
 
 
