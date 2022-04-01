@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 ## Contatos: 
 
 #### <code> E-mail: nivaldomelocloud@gmail.com </code> 
-#### <code> Cel./WhatsApp: (11) 9 5975-6537 </code> 
 #### <code> Linkedin: <a href="https://www.linkedin.com/in/nivaldoomelo/"> Nivaldo Melo </a> </code>
 #### <code> GitHub: <a href="https://github.com/nivaldomelo/nivaldomelo"> github.com/nivaldomelo </a> </code>
 
