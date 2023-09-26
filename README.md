@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nivaldomelocloud@gmail.com)](mailto:nivaldomelocloud@gmail.com)
 
 
-## Eu sou um Engenheiro de Software e Dados.
+## Eu sou um Engenheiro de Dados.
 
 ### Meu foco é resolver problemas com dados, observabilidade, e desenvolvimento.
 
